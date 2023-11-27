@@ -1,4 +1,4 @@
-const BudgetIcon = ({ fill }) => {
+const BudgetIcon = ({ fill }: { fill: string }) => {
   return (
     <div>
       <svg

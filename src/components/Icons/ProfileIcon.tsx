@@ -1,4 +1,4 @@
-const ProfileIcon = ({ fill }) => {
+const ProfileIcon = ({ fill }: { fill: string }) => {
   return (
     <div>
       <svg

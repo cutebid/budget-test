@@ -1,4 +1,4 @@
-const HomeIcon = ({ fill }) => {
+const HomeIcon = ({ fill }: { fill: string }) => {
   return (
     <div>
       <svg
