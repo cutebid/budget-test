@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "stdBlack";
+  src: local("stdBlack"),
+    url("./fonts/CircularStd-Black.ttf") format("truetype");
+  font-weight: normal !important;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "stdBold";
+  src: local("stdBold"), url("./fonts/CircularStd-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "stdMedium";
+  src: local("stdMedium"),
+    url("./fonts/CircularStd-Medium.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
