@@ -1,0 +1,7 @@
+@import "./fonts.css";
+
+body {
+  margin: 0;
+  font-family: "stdMedium" !important;
+  /* background: #fcfcfc !important; */
+}
